@@ -1,0 +1,17 @@
+msgid ""
+msgstr "Project-Id-Version: latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::my_design"
+msgid "my design"
+msgstr "my design"
+
+msgctxt "Addons::description::my_design"
+msgid "Adds the my_design integration"
+msgstr "Adds the my_design integration" 
+
+msgctxt "Languages::my_default_template"
+msgid "my product template"
+msgstr "my product template"

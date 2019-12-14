@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<addon scheme="3.0">
+    <id>my_design</id>
+    <name>my design</name>
+    <description>Создаём модуль my_design для CS-Cart</description>
+	<status>active</status>
+    <default_language>ru</default_language>
+
+</addon>
