@@ -1,0 +1,17 @@
+msgid ""
+msgstr "Project-Id-Version: tygh"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU"
+
+msgctxt "Addons::name::product_condition"
+msgid "product_condition"
+msgstr "состояние товара"
+
+msgctxt "Addons::description::product_condition"
+msgid "description product_condition"
+msgstr "описание состояния товара"
+
+msgctxt "Languages::product_condition"
+msgid "condition"
+msgstr "состояние"

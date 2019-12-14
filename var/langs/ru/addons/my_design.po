@@ -1,0 +1,17 @@
+msgid ""
+msgstr "Project-Id-Version: latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU"
+
+msgctxt "Addons::name::my_design"
+msgid "my design"
+msgstr "мой дизайн"
+
+msgctxt "Addons::description::my_design"
+msgid "description"
+msgstr "отображение нового поля в карточке товара"
+
+msgctxt "Languages::my_default_template"
+msgid "my product template"
+msgstr "мой шаблон карточки товара"

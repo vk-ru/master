@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<addon scheme="3.0">
+    <id>product_condition</id>
+    <name>product condition</name>
+    <description>Создаём модуль product_condition для CS-Cart</description>
+	<status>active</status>
+    <default_language>ru</default_language>
+    
+    <language_variables>
+        <item lang="en" id="product_condition">Condition</item>
+        <item lang="ru" id="product_condition">Состояние</item>
+    </language_variables>
+
+    <queries>
+        <item>ALTER TABLE `?:products` ADD `product_condition` varchar(32) NOT NULL default ''</item>
+        <item for="uninstall">ALTER TABLE  `?:products` DROP `product_condition`</item>
+    </queries>
+</addon>
